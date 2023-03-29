@@ -4,3 +4,4 @@
 - 👨‍🎓 I’m currently learning Vue.js. [Here](https://github.com/maxwell111/newbie-food-calculator) you can see my starter project written using Vue.js, Vite, Vuex.
 - 👷 I’m looking to collaborate on interesting projects and bring new ideas for the world.
 - 📧 [Contact me](mailto:oleksandrkartashev@gmail.com)
+- 🇺🇦 [#StandWithUkraine](https://www.standwithukraine.how/)
