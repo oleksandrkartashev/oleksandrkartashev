@@ -1,7 +1,7 @@
 - 👋 Hi! My name is Oleksandr.
 - 👨 I'm frontend developer from Ukraine.
 - 👨‍💻 I have knowledge in: HTML, CSS Frameworks, JS (ES6, jQuery). Also worked with Wordpress and a bit with Woocommerce.
-- 👨‍🎓 I’m currently learning Vue.js. [Here](https://github.com/maxwell111/newbie-food-calculator) you can see my starter project written using Vue.js, Vite, Vuex.
+- 👨‍🎓 I’m currently learning Vue.js.
 - 👷 I’m looking to collaborate on interesting projects and bring new ideas for the world.
 - 📧 [Contact me](mailto:oleksandrkartashev@gmail.com)
 - 🇺🇦 [#StandWithUkraine](https://www.standwithukraine.how/)
