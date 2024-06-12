@@ -1,7 +1,6 @@
 - 👋 Hi! My name is Oleksandr.
-- 👨 I'm frontend developer from Ukraine.
-- 👨‍💻 I have knowledge in: HTML, CSS Frameworks, JS (ES6, jQuery). Also worked with Wordpress and a bit with Woocommerce.
-- 👨‍🎓 I’m currently learning Vue.js.
-- 👷 I’m looking to collaborate on interesting projects and bring new ideas for the world.
+- 👨 I'm experienced frontend developer with over 6 years of commercial development experience in creating user-friendly, adaptive, and responsive websites.
+- 👨‍💻 I have knowledge in: HTML, Wordpress, CSS Frameworks, JS.
+- 👷 I'm searching for a job where I can contribute effectively. Feel free to send me a DM.
 - 📧 [Contact me](mailto:oleksandrkartashev@gmail.com)
 - 🇺🇦 [#StandWithUkraine](https://www.standwithukraine.how/)
